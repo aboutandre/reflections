@@ -1,0 +1,7 @@
+    What happens when you initialize a repository? Why do you need to do it?
+
+All the files in the repository will be added. I need it to start commiting and adding further files.
+
+    How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It is like putting stuff in a box without shipping the box. You can put and take stuff from it and when you're ready you send the box away!
