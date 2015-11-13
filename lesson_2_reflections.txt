@@ -5,3 +5,10 @@ All the files in the repository will be added. I need it to start commiting and 
     How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 It is like putting stuff in a box without shipping the box. You can put and take stuff from it and when you're ready you send the box away!
+
+    How can you use the staging area to make sure you have one commit per logical change?#
+
+By controlling which files are in the staing area!
+
+    How do the diagrams help you visualize the branch structure?
+Without Diagrams where are just guessing where stuff is!
