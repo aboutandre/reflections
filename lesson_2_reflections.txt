@@ -11,4 +11,9 @@ It is like putting stuff in a box without shipping the box. You can put and take
 By controlling which files are in the staing area!
 
     How do the diagrams help you visualize the branch structure?
+
 Without Diagrams where are just guessing where stuff is!
+
+	What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging two branches allows both changes from both branches to be active. The diagram is a visual help!
