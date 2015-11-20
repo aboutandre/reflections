@@ -3,3 +3,8 @@ To work with other people or maybe to have access from different computers (eg: 
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Because it could lead to errors. How will Github know how to merge the files?
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Fork is a feature available only in Github. It works like a clone, but only in their servers.
+A clone is exactly what it says. It makes a perfect copy of a repository, so that you can work on it.
+A branch is a division of a repository where you can work on different features without messing with the master branch.
